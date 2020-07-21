@@ -1,6 +1,6 @@
 import React from 'react';
 import { shallow } from 'enzyme';
-import ListOfRepos from './repos';
+import ListOfRepos from './ListOfRepos';
 
 describe('Form component', () => {
   it('renders App', () => {
