@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form component renders App 1`] = `
+<userInfo
+  followers={1}
+  following={2}
+  link="url string"
+  userName="Morriden"
+/>
+`;

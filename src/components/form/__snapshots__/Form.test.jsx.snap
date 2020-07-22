@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form component renders App 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <input
+    onChange={[Function]}
+    type="text"
+    value="Morriden"
+  />
+  <button>
+    Submit
+  </button>
+</form>
+`;
+
+exports[`ShortForm component renders App 1`] = `
+<form>
+  <input
+    onChange={Object {}}
+    type="text"
+    value={
+      Object {
+        "onChange": [Function],
+        "onSubmit": [Function],
+        "userName": "Morriden",
+      }
+    }
+  />
+  <button>
+    Submit
+  </button>
+</form>
+`;

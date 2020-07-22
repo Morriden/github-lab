@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form component renders App 1`] = `
+<ul>
+  <li
+    key="imatitle1"
+  >
+    <p>
+      imatitle1
+    </p>
+  </li>
+  <li
+    key="imatitle2"
+  >
+    <p>
+      imatitle2
+    </p>
+  </li>
+  <li
+    key="imatitle3"
+  >
+    <p>
+      imatitle3
+    </p>
+  </li>
+</ul>
+`;
